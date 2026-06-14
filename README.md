@@ -8,6 +8,10 @@ Nabilah Bunga Sulistia 5025241073 Callista Fidelya Roba G. 5025241086
 
 ---
 
+LINK DEMO SINGKAT https://drive.google.com/drive/folders/12H0jMTxPy9X1YLFV-oNWxJibCulowvxK?usp=sharing
+
+-----
+
 ## 1. Pendahuluan
 
 ### Latar Belakang
