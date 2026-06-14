@@ -12,6 +12,21 @@ LINK DEMO SINGKAT https://drive.google.com/drive/folders/12H0jMTxPy9X1YLFV-oNWxJ
 
 -----
 
+DOKUMENTASI UI UTAMA (Lengkapnya di Laporan MyClassroom)
+
+<img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/c5af13f9-9561-4a9d-b5a9-7e60fe7c8d70" />
+
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/8fe43c9e-7daf-4300-a606-8beb1aec0e9e" />
+
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/852a2993-a937-41a1-8369-ca018c450c18" />
+
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/59d7ca97-49a3-4fce-af9d-a0ad80b60e5c" />
+
+
+
+
+
+
 ## 1. Pendahuluan
 
 ### Latar Belakang
