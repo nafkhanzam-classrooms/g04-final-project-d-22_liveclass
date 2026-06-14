@@ -15,9 +15,13 @@ LINK DEMO SINGKAT https://drive.google.com/drive/folders/12H0jMTxPy9X1YLFV-oNWxJ
 ## 1. Pendahuluan
 
 ### Latar Belakang
-Proses pembelajaran jarak jauh (online classroom) sering kali menghadapi tantangan berat berupa kurangnya keterlibatan (engagement) murid, minimnya interaksi langsung, serta kesulitan pengajar dalam memantau integritas akademik selama sesi kuis berlangsung. Berbagai platform video conference konvensional tidak didesain khusus untuk sinkronisasi materi interaktif, analisis latensi real-time, dan deteksi kecurangan adaptif. 
+Metode pembelajaran tatap muka langsung (kelas fisik/offline) memiliki kelebihan mutlak dalam hal interaksi sosial dan penyampaian ekspresi secara langsung antara pengajar dan pembelajar. Namun, di era digitalisasi ini, kelas fisik konvensional masih dihadapkan pada beberapa hambatan sosiologis dan teknis yang signifikan:
+Pada ruang kelas besar (seperti ruang kuliah teater), papan tulis atau layar proyektor utama sering kali sulit terbaca dengan jelas oleh mahasiswa yang duduk di baris belakang. Selain itu, pembagian berkas pendukung praktikum secara mendadak masih sering mengandalkan media penyimpanan USB fisik atau platform email yang tidak efisien.
+Sifat interaksi verbal satu arah sering kali membuat sebagian besar mahasiswa merasa sungkan untuk bertanya atau berpartisipasi langsung. Guru kesulitan untuk mengukur tingkat pemahaman (comprehension rate) seluruh mahasiswa di ruangan tersebut secara instan dan komprehensif.
+Ketika mahasiswa diperbolehkan membuka laptop atau smartphone sebagai pengganti buku catatan fisik, pengajar kehilangan kontrol visual untuk memastikan apakah mahasiswa benar-benar menyimak materi, atau justru secara sembunyi-sembunyi membuka media sosial, bermain game, dan keluar dari fokus aktivitas akademik.
+Agar menjembatani kesenjangan ini tanpa mengorbankan esensi interaksi fisik tatap muka, dirancanglah sebuah aplikasi pendamping kelas fisik bernama LiveClass. Aplikasi ini mentransformasikan ruang kelas tradisional menjadi smart interactive physical classroom. Pengajar tetap memimpin kelas secara fisik di depan ruangan, sementara mahasiswa menggunakan perangkat laptop atau ponsel mereka masing-masing yang terhubung langsung ke satu "simpul server lokal" interaktif.
+Melalui aplikasi ini, materi kuliah dapat terproyeksi secara sinkron di setiap layar gawai mahasiswa, kuis kilat dapat dijawab secara kompetitif secara real-time, dan aktivitas fokus layar mahasiswa dapat dipantau langsung oleh pengajar.
 
-Untuk mengatasi permasalahan tersebut, **LiveClass** dikembangkan sebagai aplikasi kelas interaktif berbasis web yang menerapkan simulasi arsitektur pemrograman socket. Aplikasi ini mengintegrasikan seluruh elemen pembelajaran—mulai dari sinkronisasi slide presentasi, kuis interaktif tipe Kahoot, pengiriman berkas materi secara instan, hingga sistem pemantau ujian (proctoring) tangguh—ke dalam satu ekosistem real-time yang cepat, responsif, dan andal.
 
 ### Ruang Lingkup
 Aplikasi **LiveClass** difokuskan pada implementasi:
