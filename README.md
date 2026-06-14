@@ -2,7 +2,7 @@
 
 Nabilah Bunga Sulistia 5025241073 Callista Fidelya Roba G. 5025241086
 
-**Mata Kuliah:** Pemrograman Jaringan / Sistem Terdistribusi  
+**Mata Kuliah:** Pemrograman Jaringan   
 **Nama Aplikasi:** LiveClass  
 **Platform:** Web-based Interactive Classroom with Socket Architecture Simulation  
 
